@@ -1,5 +1,5 @@
 import streamlit as st
-from utils1 import LabelEncoder, columns 
+from utils1 import columns 
 
 import numpy as np
 import pandas as pd
